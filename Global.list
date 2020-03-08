@@ -1,3 +1,11 @@
+
+#github
+DOMAIN-SUFFIX,raw.githubusercontent.com,Global
+DOMAIN-SUFFIX,githubusercontent.com,Global
+DOMAIN-KEYWORD,githubusercontent,Global
+DOMAIN-KEYWORD,githubusercontent,Global
+
+
 # (DNS Cache Pollution Protection)
 # > Google
 DOMAIN-SUFFIX,appspot.com,Global
