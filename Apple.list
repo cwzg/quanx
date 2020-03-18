@@ -14,8 +14,6 @@ DOMAIN,www-cdn.icloud.com.akadns.net,Apple
 IP-CIDR,17.0.0.0/8,Apple
 
 
-# >> TestFlight
-DOMAIN,testflight.apple.com,Apple
 # >> Apple URL Shortener
 DOMAIN-SUFFIX,appsto.re,Apple
 # >> iBooks Store download
