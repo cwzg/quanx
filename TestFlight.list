@@ -1,1 +1,3 @@
-# >> TestFlightDOMAIN,testflight.apple.com,proxy,direct
+# >>TestFlight
+DOMAIN,beta.apple.com
+DOMAIN,testflight.apple.com
